@@ -7,9 +7,16 @@ Open-domain Vietnamese Question Answering Interactive System
 
 <img src="https://github.com/chiennv2000/QuestionAnswering/blob/main/test_n.png" width=2000>
 
-**Technique:**
+**Tech Stack:**
 
-* BERT 
-* Siamese Network Architecture
-* Similarity Search of Dense Vector
+* Transformers
+* PyTorch
+* Faiss
+* Flask
+
+**Data**
+
+*dantri.com.vn
+*vnexpress.net
+*...
 
