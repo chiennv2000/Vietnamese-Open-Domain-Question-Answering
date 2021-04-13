@@ -1,4 +1,4 @@
-# QuestionAnswering
+# Question Answering
 *Bài tập lớn môn "Nhập môn học máy và khai phá dữ liệu", Đại học Bách Khoa Hà Nội.*
 
 Open-domain Vietnamese Question Answering Interactive System 
