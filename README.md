@@ -5,7 +5,7 @@ Open-domain Vietnamese Question Answering Interactive System
 
 **Demo**:
 
-<img src="https://github.com/chiennv2000/QuestionAnswering/blob/main/test_n.png" width=300>
+<img src="https://github.com/chiennv2000/QuestionAnswering/blob/main/test_n.png" width=2000>
 
 **Technique:**
 
