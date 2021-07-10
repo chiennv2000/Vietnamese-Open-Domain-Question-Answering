@@ -1,5 +1,5 @@
 # Open-domain Vietnamese Question Answering Interactive System 
-*Bài tập lớn môn "Nhập môn học máy và khai phá dữ liệu", Đại học Bách Khoa Hà Nội.*
+This is a project for course Introduction to Machine Learning and Data Mining (HUST).
 
 **Demo**:
 
@@ -14,7 +14,12 @@
 
 **Data**
 
-*dantri.com.vn
-*vnexpress.net
-*...
+Training Data:
+* MS-MACRO (Microsoft)
+* Zalo Question Answering (Zalo)
+
+Open-data (Data for retrieval): 
+* dantri.com.vn
+* vnexpress.net
+* ...
 
